@@ -1,0 +1,13 @@
+# Ignorar pastas de ambientes virtuais (o mais importante!)
+venv/
+.venv/
+
+# Ignorar arquivos do PyCharm e de outras IDEs
+.idea/
+
+# Ignorar arquivos compilados pelo Python
+*.pyc
+__pycache__/
+
+# Ignorar arquivos de dados ou logs gerados durante a execução
+*.log
